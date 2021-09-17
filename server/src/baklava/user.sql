@@ -10,5 +10,6 @@ CREATE TABLE allusers (
    numoflikes INTEGER,
    currentLive VARCHAR(16),
    ismod boolean,
+   alerdychangedusername boolean,
 );
 
