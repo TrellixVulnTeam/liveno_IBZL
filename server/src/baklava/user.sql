@@ -10,8 +10,5 @@ CREATE TABLE allusers (
    numoflikes INTEGER,
    currentLive VARCHAR(16),
    ismod boolean,
---    instagramlink VARCHAR(500),
---    tiktoklist VARCHAR(500),
---    numoffolows INTEGER, 
 );
 
